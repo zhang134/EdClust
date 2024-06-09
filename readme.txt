@@ -1,7 +1,7 @@
 ====================================================================
 		    
- EdClust                            2020/03/28
- ver1.0.0                           XJU, China
+ EdClust                            2024/03/28
+ ver1.0.0                           Baoji, China
 		    	 	       
 ====================================================================
 
@@ -43,11 +43,3 @@ Execute Step
 Step 1: compile codes using make command
 Step 2: ./edclust then come out options reuired
 Step 3: The final clustering results are presented in text formats and can be found in the input file directory.
-
-
-Copyright Notice
-===================
-Software, documentation and related materials:
-Copyright (c) 2020-2023 
-Xi¡¯an Jiaotong University,China
-All rights reserved.
